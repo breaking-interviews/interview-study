@@ -1,4 +1,3 @@
-[##_Image|kage@OqKcS/btrUzkYIxu8/HsxzfR2z0qZjXdeSk9KjE1/img.png|CDM|1.3|{"originWidth":306,"originHeight":165,"style":"alignCenter","width":397,"height":214}_##]
 
 ## **📌 알림**
 
