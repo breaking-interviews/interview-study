@@ -8,7 +8,7 @@
 - spring 정의 및 장점
 <br><br>
 ### 💡 Database Link
-
+- DBMS
 <br><br>
 ### 💡 Network Link
 
