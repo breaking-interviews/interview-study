@@ -6,7 +6,8 @@
 
 OSI 모델은 네트워크 기술의 기본이 되는 모델이며 응용 계층, 표현 계층, 세션 계층, 전송 계층, 네트워크 계층, 데이터 링크 계층, 물리 계층 총 7개의 계층으로 나뉘어져 있다.
 
-[##_Image|kage@cgFyox/btrURTlKu0B/6iB2YPsl1wryNBABCjdxZ1/img.png|CDM|1.3|{"originWidth":622,"originHeight":625,"style":"alignCenter"}_##]
+![image](https://user-images.githubusercontent.com/96826217/209971263-01dede96-b5e5-4d1d-95f9-8d6d0d292bc1.png)
+
 
 ### **🎲 1계층 - 물리계층(Physical Layer)**
 
