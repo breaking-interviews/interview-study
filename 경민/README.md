@@ -10,9 +10,11 @@
 
 <br><br>
 ### 💡 Database Link
+- DBMS
 
 <br><br>
 ### 💡 Network Link
+- OSI 7계층
 
 <br><br>
 ### 💡 Operating System Link
