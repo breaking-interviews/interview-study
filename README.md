@@ -14,7 +14,7 @@
 
 <br><br>
 
-## 💡 Java Link
+## 💡 Java
 - Java 장단점
 - OOP(객체 지향 프로그래밍) 특징
 - SOLID 원칙
@@ -55,8 +55,10 @@
 - Java 동기화 방식
 - Synchronized와 Lock & Condition 동기화
 - Atomic 동기화
+
 <br><br>
-## 💡 Spring & JPA Link
+
+## 💡 Spring & JPA
 - 프레임워크란
 - Spring 정의 및 장점
 - DI (Dependency Injection)
@@ -99,8 +101,10 @@
 - Spring batch
 - MSA vs Monolithic(모놀리식)
 - DDD 구조
+
 <br><br>
-## 💡 Database Link
+
+## 💡 Database
 - DBMS
 - 스키마
 - 뷰
@@ -132,8 +136,10 @@
 - 행의 개수가 많은 테이블 설계
 - Statement, PreparedStatement
 - RabbitMQ와 Kafka
+
 <br><br>
-## 💡 Network Link
+
+## 💡 Network
 - OSI 7계층
 - DNS
 - www.google.com에 접속할 때 일어나는 일
@@ -155,8 +161,10 @@
 - 중간자 공격
 - WebSocket과 Socket.io
 - gRPC
+
 <br><br>
-## 💡 Operating System Link
+
+## 💡 Operating System
 - 운영체제
 - 커널
 - 메모리구조
