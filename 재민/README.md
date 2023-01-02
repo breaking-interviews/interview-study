@@ -1,7 +1,7 @@
 # ✈️ 진행 사항
 
 ### 💡 Java Link
-
+- OOP(객체 지향 프로그래밍) 특징
 <br><br>
 ### 💡 Spring & JPA Link
 - 프레임워크란
