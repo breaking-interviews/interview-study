@@ -6,6 +6,9 @@
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/Spring"> Link </a>
 - 프레임워크란
 - spring 정의 및 장점
+- DI (Dependency Injection)
+- 주입 방식
+- IoC
 <br><br>
 ### 💡 Database <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/Database"> Link </a>
 - DBMS
