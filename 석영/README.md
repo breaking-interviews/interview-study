@@ -14,6 +14,9 @@
 <br><br>
 ### 💡 Database <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Database"> Link </a>
 - DBMS
+- DB를 사용하는 이유
+- 스키마
+- 뷰
 
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Network"> Link </a>
