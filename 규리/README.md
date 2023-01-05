@@ -19,6 +19,9 @@
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Network"> Link </a>
 - OSI 7계층
+- DNS
+- www.google.com에 접속할 때 일어나는 일 (= 브라우저 렌더링 과정)
+- 4 way-handshaking
 
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/OS"> Link </a>
