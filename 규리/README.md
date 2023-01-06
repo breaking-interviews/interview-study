@@ -26,3 +26,7 @@
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/OS"> Link </a>
 - 운영체제
+- 커널
+- 메모리구조
+- 스택과 힙의 차이점
+  - 힙영역을 크게 잡으면 안되는 이유
