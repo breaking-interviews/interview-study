@@ -3,6 +3,8 @@
 ### 💡 Java <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Java"> Link </a>
 - Java 장단점
 - OOP(객체 지향 프로그래밍) 특징
+- SOLID 원칙
+- 객체 지향 프로그래밍 vs 절차 지향 프로그래밍 (= 객체지향 vs 절차지향)
 
 <br><br>
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Spring"> Link </a>
