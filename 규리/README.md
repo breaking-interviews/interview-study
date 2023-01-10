@@ -9,12 +9,12 @@
 <br><br>
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Spring"> Link </a>
 - DI (Dependency Injection)
-- 주입 방식
+  - 주입 방식
 - IoC
 - 스프링 컨테이너
 - Bean 정의
-- 생명주기
-- 스코프
+  - 생명주기
+  - 스코프
 
 <br><br>
 ### 💡 Database <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Database"> Link </a>
