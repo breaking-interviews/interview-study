@@ -62,12 +62,12 @@
 - 프레임워크란
 - Spring 정의 및 장점
 - DI (Dependency Injection)
-- 주입 방식
+  - 주입 방식
 - IoC
 - 스프링 컨테이너
 - Bean 정의
-- 생명주기
-- 스코프
+  - 생명주기
+  - 스코프
 - 싱글톤 vs 스프링 싱글톤
 - Annotation
 - Spring Annotation
