@@ -11,6 +11,10 @@
 - DI (Dependency Injection)
 - 주입 방식
 - IoC
+- 스프링 컨테이너
+- Bean 정의
+- 생명주기
+- 스코프
 <br><br>
 ### 💡 Database <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/Database"> Link </a>
 - DBMS
