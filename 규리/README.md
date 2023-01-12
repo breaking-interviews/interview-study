@@ -21,6 +21,15 @@
 - DB를 사용하는 이유
 - 스키마
 - 뷰
+- 키
+  - 기본키
+  - 후보키
+  - 슈퍼키
+  - 외래키
+- 트랜잭션
+  - 트랜잭션 ACID
+  - 트랜잭션 상태
+  - 트랜잭션 격리수준
 
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Network"> Link </a>
