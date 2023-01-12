@@ -28,3 +28,4 @@
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/OS"> Link </a>
 - 운영체제
+- 커널
