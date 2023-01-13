@@ -37,6 +37,8 @@
 - DNS
 - www.google.com에 접속할 때 일어나는 일 (= 브라우저 렌더링 과정)
 - 4 way-handshaking
+- 포트와 소켓
+- CIDR(사이더)
 
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/OS"> Link </a>
