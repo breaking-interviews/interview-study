@@ -13,9 +13,9 @@
 - 주입 방식
 - IoC
 - 스프링 컨테이너와 빈
-- 스프링 컨테이너
-- 빈(생명주기)
-- 빈(스코프)
+  - 스프링 컨테이너
+  - 빈(생명주기)
+  - 빈(스코프)
 
 <br><br>
 ### 💡 Database <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Database"> Link </a>
