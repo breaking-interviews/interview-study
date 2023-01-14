@@ -21,6 +21,10 @@
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/Network"> Link </a>
 - OSI 7계층
+- 구글에 접속할 때 일어나는 일
+- 4 way-hand shaking
+- 포트와 소켓
+- CIDR(사이더)
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/OS"> Link </a>
 - 운영체제
