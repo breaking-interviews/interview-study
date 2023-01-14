@@ -3,6 +3,7 @@
 ### 💡 Java <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Java"> Link </a>
 - Java 장단점 
 - OOP(객체 지향 프로그래밍) 특징
+- SOLID 원칙
 <br><br>
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Spring%20%26%20JPA"> Link </a>
 - 프레임워크
