@@ -23,6 +23,11 @@
 - DB를 사용하는 이유
 - 스키마
 - 뷰
+- 키
+  - 기본키
+  - 후보키
+  - 슈퍼키
+  - 외래키
 
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Network"> Link </a>
