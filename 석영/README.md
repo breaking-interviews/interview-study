@@ -28,7 +28,10 @@
   - 후보키
   - 슈퍼키
   - 외래키
-
+- 트랜잭션
+  - ACID
+  - 트랜잭션 상태
+  - 트랜잭션 격리 수준
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/Network"> Link </a>
 - OSI 7계층
