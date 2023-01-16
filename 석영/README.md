@@ -39,6 +39,7 @@
 - www.google.com에 접속할 때 일어나는 일
 - 4 way-hand shaking
 - 포트와 소켓
+- CIDR(사이더).md
 
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/OS"> Link </a>
