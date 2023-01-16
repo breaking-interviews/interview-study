@@ -183,6 +183,7 @@
   - 스레드마다 스택을 독립적으로 할당하는 이유
   - 스레드마다 PC 레지스터를 독립적으로 할당하는 이유
 - 컨텍스트 스위칭
+- IPC(Inter Process Communication)
 - 프로세스 종류
 - Deadlock
 - Critical Section(임계영역)
