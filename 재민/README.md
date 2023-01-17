@@ -4,6 +4,12 @@
 - OOP(객체 지향 프로그래밍) 특징
 - SOLID 원칙
 - 객체 지향 프로그래밍 vs 절차 지향 프로그래밍
+- JVM
+  - JVM의 구성 요소
+  - JVM 실행과정
+  - JVM 메모리(Runtime Data Area) 구조
+- 가비지 컬렉터
+
 <br><br>
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC/Spring"> Link </a>
 - 프레임워크란
