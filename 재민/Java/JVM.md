@@ -31,7 +31,7 @@
 
 런타임 데이터 영역은 JVM의 메모리 영역으로 자바 애플리케이션을 실행할 때 사용되는 데이터들을 적재하는 영역
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5065977e-5ae4-4368-b4b2-f3bbeb807ed0/Untitled.png)
+![image](https://user-images.githubusercontent.com/107789417/212910746-9b56052c-01d5-48c3-9db9-300308314d1d.png)
 
 - Method Area
     - JVM이 실행될 때 생성되는 공간
