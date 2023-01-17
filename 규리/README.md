@@ -10,7 +10,7 @@
   - JVM 실행과정
   - JVM 메모리(Runtime Data Area) 구조
 - 가비지 컬렉터
-- 접근 제한자
+
 
 <br><br>
 ### 💡 Spring & JPA <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Spring"> Link </a>
