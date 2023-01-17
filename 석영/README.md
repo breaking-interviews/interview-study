@@ -40,6 +40,8 @@
 - 4 way-hand shaking
 - 포트와 소켓
 - CIDR(사이더).md
+- 프로세스와 스레드
+  - 프로세스 생성 과정
 
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81/OS"> Link </a>
