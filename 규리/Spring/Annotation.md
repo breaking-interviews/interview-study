@@ -22,7 +22,7 @@
 주석과 비슷하나, 애너테이션은 프로그램에게 정보 제공
 
 ```java
-**@GetMapping()**
+@GetMapping()
 public String hello() {
     return "hello";
 }
