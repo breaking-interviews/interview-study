@@ -40,13 +40,14 @@
   - 트랜잭션 ACID
   - 트랜잭션 상태
   - 트랜잭션 격리수준
-- Commit
-- Rollback
-- 동시성 제어
-- Locking
+  - Commit
+  - Rollback
+  - 동시성 제어
+  - 갱신 분실 문제
+  - Locking
   - MVCC(격리 수준 제어) 대신 락을 사용하는 이유
   - 낙관적 락보다 DB 트랜잭션 레벨을 Repeatable Read로 하면 되지 않을까?
-- 갱신 분실 문제
+
 
 <br><br>
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Network"> Link </a>
