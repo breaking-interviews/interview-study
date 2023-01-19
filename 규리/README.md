@@ -4,7 +4,7 @@
 - Java 장단점
 - OOP(객체 지향 프로그래밍) 특징
 - SOLID 원칙
-- 객체 지향 프로그래밍 vs 절차 지향 프로그래밍 (= 객체지향 vs 절차지향)
+- 객체 지향 프로그래밍 vs 절차 지향 프로그래밍 (AS 객체지향 vs 절차지향)
 - JVM
   - JVM의 구성 요소
   - JVM 실행과정
@@ -40,11 +40,11 @@
   - 트랜잭션 ACID
   - 트랜잭션 상태
   - 트랜잭션 격리수준
-  - Commit
+  - Commit (AS 트랜잭션2)
   - Rollback
   - 동시성 제어
   - 갱신 분실 문제
-  - Locking
+  - Locking (AS 트랜잭션3)
   - MVCC(격리 수준 제어) 대신 락을 사용하는 이유
   - 낙관적 락보다 DB 트랜잭션 레벨을 Repeatable Read로 하면 되지 않을까?
 
@@ -53,7 +53,7 @@
 ### 💡 Network <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/Network"> Link </a>
 - OSI 7계층
 - DNS
-- www.google.com에 접속할 때 일어나는 일 (= 브라우저 렌더링 과정)
+- www.google.com에 접속할 때 일어나는 일 (AS 브라우저 렌더링 과정)
 - 4 way-handshaking
 - 포트와 소켓
 - CIDR(사이더)
