@@ -1,7 +1,7 @@
 # interview-study
 기술면접을 뿌수기 위해 결의를 다진 백엔드 개발자 모임 <br>
 <table>
-  <tbody>
+  <tbody> 
     <tr>
       <td align="center"><a href="https://github.com/LimJaeminZ"><img src="https://user-images.githubusercontent.com/96826217/207522331-6c49b2ed-c7a9-45df-9e9d-c2442f5307de.jpg" width="400px;" alt=""/><br /><sub><b>임재민</b></sub></a><br /><a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%9E%AC%EB%AF%BC" title="Documentation">📖</a>         
       <td align="center"><a href="https://github.com/Quartz614"><img src="https://user-images.githubusercontent.com/96826217/207523159-7ac7ebf8-1e77-4f11-b1f4-b25f8a53125f.jpeg" width="400px;" alt=""/><br /><sub><b>주석영</b></sub></a><br /><a href="https://github.com/breaking-interviews/interview-study/tree/main/%EC%84%9D%EC%98%81">📖</a>
