@@ -57,6 +57,8 @@
 - 4 way-handshaking
 - 포트와 소켓
 - CIDR(사이더)
+- 서브넷
+- 캐스트
 
 <br><br>
 ### 💡 Operating System <a href="https://github.com/breaking-interviews/interview-study/tree/main/%EA%B7%9C%EB%A6%AC/OS"> Link </a>
