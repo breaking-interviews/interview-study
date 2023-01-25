@@ -162,8 +162,8 @@
 - CIDR(사이더)
 - 서브넷
 - 캐스트
-- MTU
 - TCP, UDP
+- MTU
 - HTTP, HTTPS
 - HTTP 1.0 vs HTTP 1.1 vs HTTP 2.0
 - CORS
