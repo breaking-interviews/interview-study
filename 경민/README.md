@@ -60,6 +60,8 @@
 - 4 way-handshaking
 - 포트와 소켓
 - CIDR(사이더)
+- 서브넷
+- 캐스트
 
 <br><br>
 
