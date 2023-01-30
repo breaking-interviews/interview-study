@@ -56,3 +56,4 @@
 - 스택과 힙의 차이점
   - 힙영역을 크게 잡으면 안되는 이유
 - IPC(Inter Process Communication)
+- 프로세스 종류
